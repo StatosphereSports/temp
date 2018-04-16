@@ -1,2 +1,4 @@
 name: Statosphere Sports
 markdown: kramdown
+theme: jekyll-theme-slate
+permalink: /blog/:year/:month/:day/:title
