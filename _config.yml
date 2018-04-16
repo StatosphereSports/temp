@@ -1,2 +1,3 @@
 name: Statosphere Sports
 markdown: kramdown
+theme: jekyll-theme-slate
