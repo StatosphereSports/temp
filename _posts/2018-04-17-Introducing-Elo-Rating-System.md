@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Introducing the Statosphere Elo Rating System"
+title: "Introducing the Statosphere Elo AFL Rating System"
 date: 2018-04-17
 ---
 
-The Statosphere Elo Rating System (SERS) builds on the concept put together by the late Hungarian Physicist Arpad Elo, designed as a Chess rating system.
+The Statosphere Elo AFL Rating System (SEARS) builds on the concept put together by the late Hungarian Physicist Arpad Elo, designed as a Chess rating system.
 
 The Elo rating system is now probably most famous in popular society as the main rating system used by Five Thirty Eight for their sports prediction models. It has also been used quite commonly in AFL circles by a number of people including Matter Of Stats, Plus Six One and The Arc, all of whom have provided inspiration in their own way for the shapre of the current model that I am running.
 
